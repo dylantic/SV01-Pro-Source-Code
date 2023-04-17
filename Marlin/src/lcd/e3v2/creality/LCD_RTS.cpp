@@ -1,5 +1,4 @@
 #include "LCD_RTS.h"
-#include <wstring.h>
 #include <stdio.h>
 #include <string.h>
 #include <Arduino.h>
